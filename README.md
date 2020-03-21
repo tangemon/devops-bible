@@ -1,8 +1,7 @@
 # devops-bible
 ## 项目管理
 ### 需求管理
-**TFS**  
-[Team Foundation Server](https://azure.microsoft.com/zh-cn/services/devops/server/)  
+**TFS**[Team Foundation Server](https://azure.microsoft.com/zh-cn/services/devops/server/)  
 [TFS使用教程1](https://www.cnblogs.com/FreeWick/archive/2011/11/05/2237504.html)  
 [TFS使用教程2](https://www.cnblogs.com/FreeWick/archive/2011/11/06/2238301.html)  
 [TFS使用教程3](https://www.cnblogs.com/FreeWick/archive/2012/06/27/2564579.html)  
